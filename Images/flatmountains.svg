@@ -1,0 +1,19 @@
+<svg width="1600" height="900" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="900" width="1600" fill="#121327"/>
+  <polygon opacity="0.5" id="svg_2" points="957,451 539,901 1396,901 " fill="#cc0000"/>
+  <polygon opacity="0.21" id="svg_3" points="956,450 871.9000244140625,900 1395,900 " fill="#aa0000"/>
+  <polygon opacity="0.36" id="svg_4" points="-60 900 398 662 816 900" fill="#d6002b"/>
+  <polygon opacity="0.63" id="svg_5" points="337 900 398 662 816 900" fill="#b10022"/>
+  <polygon opacity="0.47" id="svg_6" points="1203 546 1552 900 876 900" fill="#d9004b"/>
+  <polygon opacity="0.51" id="svg_7" points="1202,549 1551,903 1161,903 " fill="#b2003d"/>
+  <polygon opacity="0.43" id="svg_8" points="639,695 884,900 365,900 " fill="#60d313"/>
+  <polygon opacity="0.38" id="svg_9" points="587,901 641,696 886,901 " fill="#07840e"/>
+  <polygon opacity="0.48" id="svg_10" points="1710 900 1401 632 1096 900" fill="#c4008c"/>
+  <polygon opacity="0.58" id="svg_11" points="1710 900 1401 632 1365 900" fill="#9e0071"/>
+  <polygon opacity="0.72" id="svg_12" points="1212,901 973,688 727,901 " fill="#3a083a"/>
+  <polygon opacity="0.73" id="svg_13" points="943 900 1210 900 971 687" fill="#4c0b4c"/>
+ </g>
+</svg>
