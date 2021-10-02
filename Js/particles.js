@@ -197,6 +197,7 @@ var pJS = function(tag_id, params){
 
       window.addEventListener('resize', function(){
 
+        
           pJS.canvas.w = pJS.canvas.el.offsetWidth;
           pJS.canvas.h = pJS.canvas.el.offsetHeight;
 
@@ -1539,3 +1540,4 @@ window.particlesJS.load = function(tag_id, path_config_json, callback){
   xhr.send();
 
 };
+
